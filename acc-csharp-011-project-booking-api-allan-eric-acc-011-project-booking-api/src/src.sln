@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi", "BookingApi\BookingApi.csproj", "{A8A8E773-6318-4985-BD83-B64D94B8E6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi.Test", "BookingApi.Test\BookingApi.Test.csproj", "{DB14D43C-3766-4DEE-8056-71556A8DAC96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi.Test.Test", "BookingApi.Test.Test\BookingApi.Test.Test.csproj", "{3EBBF529-C235-413B-88A2-B8097CA32E11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A8E773-6318-4985-BD83-B64D94B8E6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A8E773-6318-4985-BD83-B64D94B8E6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A8E773-6318-4985-BD83-B64D94B8E6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A8E773-6318-4985-BD83-B64D94B8E6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB14D43C-3766-4DEE-8056-71556A8DAC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB14D43C-3766-4DEE-8056-71556A8DAC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB14D43C-3766-4DEE-8056-71556A8DAC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB14D43C-3766-4DEE-8056-71556A8DAC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBBF529-C235-413B-88A2-B8097CA32E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBBF529-C235-413B-88A2-B8097CA32E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBBF529-C235-413B-88A2-B8097CA32E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBBF529-C235-413B-88A2-B8097CA32E11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
