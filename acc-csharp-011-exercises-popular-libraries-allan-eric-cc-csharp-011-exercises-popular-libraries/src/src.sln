@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularLibraries", "PopularLibraries\PopularLibraries.csproj", "{C4936A57-8910-486C-A9AA-C5141B0218BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularLibraries.Test.Test", "PopularLibraries.Test.Test\PopularLibraries.Test.Test.csproj", "{3DBAA7F8-3212-4692-AEA6-90211C72B963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4936A57-8910-486C-A9AA-C5141B0218BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4936A57-8910-486C-A9AA-C5141B0218BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4936A57-8910-486C-A9AA-C5141B0218BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4936A57-8910-486C-A9AA-C5141B0218BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DBAA7F8-3212-4692-AEA6-90211C72B963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBAA7F8-3212-4692-AEA6-90211C72B963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBAA7F8-3212-4692-AEA6-90211C72B963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBAA7F8-3212-4692-AEA6-90211C72B963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
