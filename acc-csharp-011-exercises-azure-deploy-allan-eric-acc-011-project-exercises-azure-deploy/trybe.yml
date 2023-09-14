@@ -1,0 +1,2 @@
+ignore_files:
+  - src/azure-deploy.Test.Test/
