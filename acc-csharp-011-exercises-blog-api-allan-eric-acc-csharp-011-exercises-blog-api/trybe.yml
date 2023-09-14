@@ -1,0 +1,2 @@
+ignore_files:
+  - src/blog-api.Test.Test/
